@@ -1,2 +1,3 @@
-# freepascal.pdf.printer
-prints pdf from text file
+# compact block chain wallet home made
+
+
