@@ -1,3 +1,3 @@
-# compact block chain wallet home made
+# download nano to build linux
 
 
