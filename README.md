@@ -1,2 +1,2 @@
-florest.simulator 
+loto server 
 
